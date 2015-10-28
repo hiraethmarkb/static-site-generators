@@ -1,7 +1,10 @@
-# Stress Management
+# Static Site Generators
+
+## Or How I Slayed The Demon Beast Procrastination... (maybe...)
+## And Saved My Sanity... (sort of...)
 
 Mark Burns - @hydrantmark
 
-Stress can sometimes be useful, but if not dealt with can be bad for your general health and well-being. 
+A brief introduction to Static Site Generators, what they are, and why I think they are useful.
 
-It's a topic that doesn't get talked about enough, often for fear of appearing 'weak'. Let's leave any preconceptions behind, and take a look at what stress is, what some of the warning signs can be, and have a look at some of the things that you can do to alleviate that stress.
+A talk given at Code Cumbria October 2015.
